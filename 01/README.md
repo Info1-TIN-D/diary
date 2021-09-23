@@ -3,6 +3,10 @@
 - Language C inventé dans les années 70
 - Standardisé sous l'appellation ISO/IEC 9899:11 (C11)
 
+- On va travailler avec WSL et VsCODE sous la normalisation POSIX
+- Le premier éditeur s'appelle `ed`. Quand on l'exécute il ne se passe rien. 
+  - Parce qu'à l'époque il n'y avait pas d'écran
+
 - https://heig-tin-info.github.io/handout
 - https://www.tiobe.com/tiobe-index/
 
